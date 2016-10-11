@@ -1,0 +1,41 @@
+.message {
+background-color:rgba(255,225,230,0.5);
+margin-left:auto;
+margin-right:auto;
+width: 200px;
+text-align: center;
+display: center center;
+}
+
+p{
+color:black;
+text-align:center;
+}
+form {
+background-color:rgba(205,115,240,10);
+padding:20px;
+text-align: center;
+}
+
+#contient {
+background-color:rgba(255,255,255,0.5); 
+display: -webkit-flex;
+display: flex;
+display: center;
+width:1500px;
+height: auto;
+margin-left:150px;
+}
+
+.semaine10 {
+background-color:rgba(255,120,250,0.15);
+margin:30px;
+padding:15px;
+
+height:auto;
+}
+
+
+div{
+
+}
